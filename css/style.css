@@ -212,7 +212,7 @@ h5 center
         border-radius: 5px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
         flex-wrap: wrap;
-        flex-direction: column;
+        flex-direction: row;
     }
 
 
