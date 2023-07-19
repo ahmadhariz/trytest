@@ -215,7 +215,14 @@ h5 center
         flex-direction: row;
     }
 
-
+@media (max-width: 480px) 
+    {
+  .menu 
+    {
+    flex-direction: column; 
+    height: auto;
+    }
+    }
 
 .contact
     {
