@@ -211,8 +211,6 @@ h5 center
         border: 5px solid #97eaff;
         border-radius: 5px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-        flex-wrap: wrap;
-        flex-direction: row;
     }
 
 .contact
